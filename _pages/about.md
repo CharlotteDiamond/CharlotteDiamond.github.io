@@ -18,7 +18,7 @@ This is Hedi (or Charlotte if we play video games together)，a girl who believe
 - Always wish to study more and never satisfy!
 - Programming my way.
 
-Here's my [CV] (/file/resume.pdf).
+Here's my [CV] (/files/resume.pdf).
 
 ## Portfolio
  - Mar 2025: Implement Simplified Message Queue [Link](https://github.com/CharlotteDiamond/Work-MQ)
