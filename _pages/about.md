@@ -20,7 +20,7 @@ This is Hedi (or Charlotte if we play video games together)，a girl who believe
 
 Here's my [CV] (/file/resume.pdf).
 
-## Profolio
+## Portfolio
  - Mar 2025: Implement Simplified Message Queue [Link](https://github.com/CharlotteDiamond/Work-MQ)
  - Feb 2024 - Aug 2024: Machine Learning Technologies for Speech Decoding based on Invasive BCI [Link](https://github.com/CharlotteDiamond/BCI-Speech-Decoding)
  - Apr 2024: Simulate a Lunar Landing Simulator Reinforcement Learning Project Using OpenAI Gym
