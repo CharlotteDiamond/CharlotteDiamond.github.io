@@ -10,7 +10,7 @@ redirect_from:
 Strive to Progress! Infinite Transcendence!
 ======
 This is Hedi (or Charlotte if we play video games together)，a girl who believes she can succeed in anything!
-======
+
 ## I am
 - Seeking PhD opportunites, and also trying to seek a job as a Java Backend Developer. 
 - who is also a language lover, Boujour and Bienvenue~
@@ -18,7 +18,7 @@ This is Hedi (or Charlotte if we play video games together)，a girl who believe
 - Always wish to study more and never satisfy!
 - Programming my way.
 
-Here's my [CV] (/files/resume.pdf).
+Here's my [CV](/files/resume.pdf).
 
 ## Portfolio
  - Mar 2025: Implement Simplified Message Queue [Link](https://github.com/CharlotteDiamond/Work-MQ)
@@ -30,6 +30,8 @@ Here's my [CV] (/files/resume.pdf).
  - May 2022: Prediction of Stock Prices Based on LSTM Model [Link](https://github.com/CharlotteDiamond/Interest-Analysis_and_Predicton_for_Stocks_using_LSTM)
 
 
-Contact
-------
+## Contact
 Please contact me through [Linkedin](https://www.linkedin.com/in/hedi-h/).
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=312&t=tt&d=WWgOfq4agmQMsv-liNWF_IqrTiXrb-1nqoPvyzlC238'></script>
