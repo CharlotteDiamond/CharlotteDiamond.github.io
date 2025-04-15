@@ -18,3 +18,4 @@ collection: ie
 - Jul 2024 - Sep 2024: University of Bath, Food & Beverage Assistant, the United Kingdom
 - May 2024 - Sep 2024: Creams Cafe, Front of the House, the United Kingdom
 ## Research Internship Experience
+- Jul 2024 - Aug 2024: University of Bath, BCI Research Assistant, the United Kingdom

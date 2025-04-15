@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is Hedi (or Charlotte if we play video games together)，a girl who believes she can succeed in anything!"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 Strive to Progress! Infinite Transcendence!
+======
+This is Hedi (or Charlotte if we play video games together)，a girl who believes she can succeed in anything!
 ======
 ## I am
 - Seeking PhD opportunites, and also trying to seek a job as a Java Backend Developer. 
