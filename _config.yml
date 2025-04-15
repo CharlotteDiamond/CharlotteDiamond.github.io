@@ -25,11 +25,11 @@ author:
   avatar           : "myprofile.png"
   name             : "Hedi"
   pronouns         : "she/her" # example: "she/her"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "UTC+8"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : #"none@example.org"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
