@@ -32,6 +32,3 @@ Here's my [CV](/files/resume.pdf).
 
 ## Contact
 Please contact me through [Linkedin](https://www.linkedin.com/in/hedi-h/).
-
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=312&t=tt&d=WWgOfq4agmQMsv-liNWF_IqrTiXrb-1nqoPvyzlC238'></script>

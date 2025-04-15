@@ -13,11 +13,11 @@ title                    : "Hedi's Homepage"
 title_separator          : "-"
 name                     : &name "Hedi"
 description              : &description "personal description"
-url                      : https://charlottehedi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://CharlotteDiamond.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "CharlotteDiamond/charlottehedi.github.io"
+repository               : "CharlotteDiamond/CharlotteDiamond.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
+# Site Author - The following control what appear as part of the author content on the sidebar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
@@ -147,7 +147,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider: "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
@@ -321,7 +321,7 @@ whitelist:
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
 #  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
 #  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
+#  - Archive page should exist at path when using Liquid method, or you can
 #    expect broken links (especially with breadcrumbs enabled)
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/

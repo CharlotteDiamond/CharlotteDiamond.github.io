@@ -1,5 +1,5 @@
 ---
-title: "Here are some of my internship experience"
+title: "Here are some of my internship experiences."
 excerpt: #"Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: ie
 ---
@@ -13,9 +13,10 @@ collection: ie
 - Feb 2023 - May 2023: Shanghai Zhangjiang Development Strategy Research Institute, Information Statistics Intern, China
 - May 2023 - Jul 2023: Shanghai Zhangjiang Development Strategy Research Institute, Information Statistics Lead, China
 - Oct 2023 - Nov 2023: University of Bath, Telethon Fundraiser, the United Kingdom
-- Dec 2023: Kokoro, Font of the House, the United Kingdom
+- Dec 2023: Kokoro, Front of the House, the United Kingdom
 - Nov 2023 - Feb 2025: University of Bath, Student Ambassador, the United Kingdom
 - Jul 2024 - Sep 2024: University of Bath, Food & Beverage Assistant, the United Kingdom
 - May 2024 - Sep 2024: Creams Cafe, Front of the House, the United Kingdom
+
 ## Research Internship Experience
 - Jul 2024 - Aug 2024: University of Bath, BCI Research Assistant, the United Kingdom
