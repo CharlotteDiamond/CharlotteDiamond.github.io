@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: # ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -22,7 +22,7 @@ Here's my [CV](/files/resume.pdf).
 
 ## Portfolio
 
-- Mar 2025:            Implement Simplified Message Queue [Link](https://github.com/CharlotteDiamond/Work-MQ)
+- Mar 2025: Implement Simplified Message Queue [Link](https://github.com/CharlotteDiamond/Work-MQ)
  - Feb 2024 - Aug 2024: Machine Learning Technologies for Speech Decoding based on Invasive BCI [Link](https://github.com/CharlotteDiamond/BCI-Speech-Decoding)
  - Apr 2024: Simulate a Lunar Landing Simulator Reinforcement Learning Project Using OpenAI Gym
  - Mar 2024 - Apr 2024: Dynamic Gesture Recognition Control System Based on Raspberry Pi 4
@@ -32,4 +32,5 @@ Here's my [CV](/files/resume.pdf).
 
 
 ## Contact
-Please contact me through [Linkedin](https://www.linkedin.com/in/hedi-h/).
+
+Contact me through [Linkedin](https://www.linkedin.com/in/hedi-h/).

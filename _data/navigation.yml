@@ -12,10 +12,7 @@ main:
     url: /files/resume.pdf
 
   - title: "Internship Experience"
-    url: /ie/
-
-  - title: "Timeline"
-    url: /ie/timeline
+    url: /ie
 
 #  - title: "Publications"
 #    url: /publications/

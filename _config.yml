@@ -22,9 +22,9 @@ repository               : "CharlotteDiamond/CharlotteDiamond.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
-  name             : "Hedi"
-  pronouns         : "she/her" # example: "she/her"
+  avatar: "myprofile.png"
+  name: "Hedi H."
+  pronouns: "She/Her" # example: "she/her"
   bio              : #"Short biography for the left-hand sidebar"
   location         : "UTC+8"
   employer         : #"Red Brick University"
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Hedi H." # Username
+  linkedin: "hedi-h" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
