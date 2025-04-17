@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Strive to Progress! Infinite Transcendence!"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-[//]: # (Strive to Progress! Infinite Transcendence!)
+## Strive to Progress! Infinite Transcendence!
 
-[//]: # (======)
+======
 
 This is Hedi (or Charlotte in games)，a girl who is programming her way!
 
