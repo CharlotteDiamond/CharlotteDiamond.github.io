@@ -22,7 +22,7 @@ repository               : "CharlotteDiamond/CharlotteDiamond.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myprofile.png"
+  avatar: "profile.png"
   name             : "Hedi"
   pronouns         : "she/her" # example: "she/her"
   bio              : #"Short biography for the left-hand sidebar"
@@ -147,7 +147,7 @@ social:
 
 # Analytics
 analytics:
-  provider: "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider: false # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
