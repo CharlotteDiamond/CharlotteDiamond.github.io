@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 ## Strive to Progress! Infinite Transcendence!
-
 ======
 
 This is Hedi (or Charlotte in games)，a girl who is programming her way!
