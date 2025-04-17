@@ -1,0 +1,9 @@
+- date: "Feb 2024 - Aug 2024"
+  title: "项目A"
+  details: "机器学习研究，使用 TensorFlow..."
+  progress: 100
+
+- date: "Sep 2023 - Jan 2024"
+  title: "项目B"
+  details: "数据分析，Python 处理数据集..."
+  progress: 100
